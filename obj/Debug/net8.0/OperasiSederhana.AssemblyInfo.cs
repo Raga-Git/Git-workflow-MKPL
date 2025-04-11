@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OperasiSederhana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab4f5fe29c883851c5d7d296b15b17d56f730010")]
 [assembly: System.Reflection.AssemblyProductAttribute("OperasiSederhana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OperasiSederhana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
